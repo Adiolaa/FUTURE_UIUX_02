@@ -21,7 +21,10 @@ FlowNote is a calm, minimal journaling app that helps users write, reflect, and 
 - Prototype Testing
 
 ### View the Design
+[Figma Design Link](https://www.figma.com/design/7vHXTVWXFAAtFvKmCZLFJe/UI-UX-Task2?node-id=0-1&t=ytq1qvfSoUuAtctG-1)
+
 [Figma Prototype Link](https://www.figma.com/proto/7vHXTVWXFAAtFvKmCZLFJe/UI-UX-Task2?page-id=0%3A1&node-id=169-4&viewport=-1161%2C256%2C0.49&t=4Ah231AerBvX4nlD-1&scaling=scale-down&content-scaling=fixed)
+
 
 ### Contact
 Designed by Adesegha Oreoluwa
